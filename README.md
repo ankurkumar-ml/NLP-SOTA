@@ -9,3 +9,6 @@
 #### How Transformers work in deep learning and NLP: an intuitive introduction
 
 [https://theaisummer.com/transformer/](https://theaisummer.com/transformer/)
+
+#### A Wonderful Course on github - must read
+[NLP Course | For You](https://lena-voita.github.io/nlp_course.html#preview_word_emb)
